@@ -1,1 +1,0 @@
-# Smart-Fake-News-Detection
